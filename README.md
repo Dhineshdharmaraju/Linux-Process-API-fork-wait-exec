@@ -69,7 +69,7 @@ int main()
 
 ##OUTPUT
 
-![alt text](image.png)
+![alt text](1.png)
 
 
 
@@ -132,9 +132,7 @@ int main()
 
 
 
-
-
-![alt text](image-1.png)
+![alt text](2.png)
 
 
 
